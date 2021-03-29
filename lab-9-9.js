@@ -1,5 +1,7 @@
 window.addEventListener("load", init);
 
+// nothing
+
 var canvas, context, ball;
 
 function init() {
